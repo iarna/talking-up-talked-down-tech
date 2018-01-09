@@ -2,7 +2,7 @@
 
 Watch it here as given at Open Source & Feelings 2016:
 
-[![video link](https://img.youtube.com/vi/9fouewJnYo0/0.jpg)](https://www.youtube.com/watch?v=9fouewJnYo0)
+[![video link](https://img.youtube.com/vi/9fouewJnYo0/0.jpg)](https://youtu.be/9fouewJnYo0?t=20s)
 
 ↑↑↑↑↑↑↑↑ click to go to youtube and play ↑↑↑↑↑↑↑↑
 
